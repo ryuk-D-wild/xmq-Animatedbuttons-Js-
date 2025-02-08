@@ -83,7 +83,6 @@ const AnimatedButton = () => {
         <span ref={textRef} className="relative block transition-transform duration-300">
           Hover Me
         </span>
-hello
         {/* Bubble Effect */}
         <div
           ref={bubbleRef}
