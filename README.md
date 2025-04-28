@@ -1,7 +1,3 @@
-Based on the content provided in the existing `README.md` file, here's a properly formatted and detailed README that incorporates the existing details and organizes it in a professional structure:
-
----
-
 # Animated Buttons with JavaScript
 
 A collection of interactive and visually engaging button animations built with JavaScript, GSAP, and Pixi.js. These buttons are designed to provide a futuristic and dynamic user experience with features like mouse tracking, neon effects, and smooth animations.
