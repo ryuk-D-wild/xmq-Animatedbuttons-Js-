@@ -71,10 +71,6 @@ npm install gsap pixi.js
   
 3. call the button in the page's you want.
 
-## Screenshots
-
-*(Add screenshots or GIFs of the animations to showcase the buttons.)*
-
 
 ## License
 
