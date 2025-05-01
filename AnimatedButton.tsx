@@ -17,7 +17,7 @@ const AnimatedButton = () => {
     const bubble = bubbleRef.current;
     if (!button || !text || !bubble) return;
 
-    const handleMouseMove = (e: MouseEvent) => {
+    const handleMouseMove = (e) => {
       const { left, top, width, height } = button.getBoundingClientRect();
       const x = e.clientX - (left + width / 2);
       const y = e.clientY - (top + height / 2);
